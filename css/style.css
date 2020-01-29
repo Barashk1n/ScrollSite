@@ -1,5 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  color: #7581a1;
+  font-size: 16px;
+  line-height: 26px;
 }
 
 a {
@@ -23,4 +26,30 @@ h1 {
   color: #fff;
   font-weight: 400;
   background-color: #1085e4;
+}
+
+.grid h2 {
+  color: #192b59;
+  font-size: 40px;
+  font-weight: 700;
+
+}
+
+.grid h2 span {
+  font-size: 15px;
+  font-weight: 800;
+  color: #1085e4;
+  display: block;
+}
+
+.grid-item h3 {
+  color: #192b59;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+..grid-item a {
+  color: #1085e4;
+  font-size: 14px;
+  font-weight: 600;
 }
